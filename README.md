@@ -3,12 +3,15 @@
 
 <a href="//discordapp.com/users/108888888888888888">![Discord](
 https://dcbadge.vercel.app/api/shield/131736536743018496)</a>
+
+<!--
 <a rel="me" href="https://greys.place/@grey">![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)</a>
+-->
 
 
 I do things on an ongoing basis - like development, gaming, photography, art and tech.
 
-✨ I run a (still new) Mastodon instance for tech enthusiasts and fellow developers @ [greys.place](https://greys.place). Say hello! ✨
+<!--✨ I run a (still new) Mastodon instance for tech enthusiasts and fellow developers @ [greys.place](https://greys.place). Say hello! ✨-->
 
 
 <!--
