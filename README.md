@@ -11,8 +11,10 @@ https://dcbadge.vercel.app/api/shield/131736536743018496)</a>
 
 Hi! 👋 I do things on an ongoing basis - like development, gaming, photography, art and tech.
 
-<!--✨ I run a (still new) Mastodon instance for tech enthusiasts and fellow developers @ [greys.place](https://greys.place). Say hello! ✨-->
-
+**Latest interests**
+- 🤖 Machine learning
+- 📦 Blender
+- 🎮 Unreal Engine 5
 
 <!--
 **Social**
