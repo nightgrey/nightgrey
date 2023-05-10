@@ -1,11 +1,8 @@
 <img src="https://raw.githubusercontent.com/nightgrey/nightgrey/main/cover.jpg" alt="Waves" />
 
-
+<!--
 <a href="//discordapp.com/users/108888888888888888">![Discord](
 https://dcbadge.vercel.app/api/shield/131736536743018496)</a>
-
-<!--
-<a rel="me" href="https://greys.place/@grey">![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)</a>
 -->
 
 
