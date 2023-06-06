@@ -6,12 +6,16 @@ https://dcbadge.vercel.app/api/shield/131736536743018496)</a>
 -->
 
 
-Hi! 👋 I do things - like development, gaming, photography, art and tech.
+Hi! 👋 I make, like and do things related to software development, gaming, photography, art, design and tech.
 
 **Latest interests**
+
+Some of the things I learn and dabble in.
+
 - 🤖 Machine learning
 - 📦 Blender
 - 🎮 Unreal Engine 5
+- 👨‍🎨 Computer graphics and generative art
 
 <!--
 **Social**
