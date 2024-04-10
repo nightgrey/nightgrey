@@ -8,6 +8,11 @@ https://dcbadge.vercel.app/api/shield/131736536743018496)</a>
 
 Hi! 👋 I make, like and do things related to software development, gaming, photography, art, design and tech.
 
+**Latest projects**
+- [Aether](aether.nco.dev)
+
+  A web app to remove backgrounds from images with AI - locally, on your own device.
+
 **Latest interests**
 
 Some of the things I learn and dabble in.
