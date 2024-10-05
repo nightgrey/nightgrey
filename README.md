@@ -17,10 +17,10 @@ Hi! 👋 I make, like and do things related to software development, gaming, pho
 
 Some of the things I learn and dabble in.
 
+- 👨‍🎨 Computer graphics
 - 🤖 Machine learning
 - 📦 Blender
-- 🎮 Unreal Engine 5
-- 👨‍🎨 Computer graphics and generative art
+- 🎮 Game development
 
 <!--
 **Social**
