@@ -8,19 +8,31 @@ https://dcbadge.vercel.app/api/shield/131736536743018496)</a>
 
 Hi! 👋 I make, like and do things related to software development, gaming, photography, art, design and tech.
 
-**Latest projects**
-- [Aether](aether.nco.dev)
+**Projects & Experiments**
+- **WIP** [ansi.rs](https://github.com/nightgrey/ansi.rs)
+
+  A TUI and anything ANSI-related written in Rust.
+
+- [ansi](https://github.com/nightgrey/ansi)
+  
+  A TypeScript library for anything ANSI-related: Parsing, Styling, Sequences, and more.
+
+- [Move It](https://github.com/nightgrey/aseprite-move-it)
+  
+  Asesprite extension to move layers with more convenience & hotkeys.
+
+- [Aether](https://github.com/nightgrey/aether)
 
   A web app to remove backgrounds from images with AI - locally, on your own device.
 
-**Latest interests**
+**Interests**
 
-Some of the things I learn and dabble in.
+Some of the things I learn and dabble in lately!
 
 - 👨‍🎨 Computer graphics
-- 🤖 Machine learning
-- 📦 Blender
-- 🎮 Game development
+- 🤖 Machine Learning
+- 🦾 Agentic tooling
+- 🖥️ Terminal apps
 
 <!--
 **Social**
